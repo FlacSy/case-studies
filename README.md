@@ -1,7 +1,8 @@
 # Case Studies: Proova Backend Architecture
 
-This repository contains real-world backend architecture decisions, written as RFCs and ADRs.  
-All code examples are redacted or simplified for confidentiality.
+This repository contains **educational case studies** based on real-world backend architecture decisions.  
+All examples are **generalized, redacted, or simplified** to ensure confidentiality.  
+No client-specific data, credentials, or internal systems are included.
 
 ## Included Case Studies
 
@@ -17,5 +18,11 @@ Each case demonstrates:
 - the chosen solution and architecture
 - the impact and lessons learned
 
-This repository is intended to showcase engineering thinking, system design, and architectural decisions.
+> **Note:** These case studies are **educational examples only**.  
+> They are intended to showcase engineering thinking, system design, and architectural decision-making, without exposing any client-specific information.
 
+## Usage
+
+- Browse each folder to read detailed RFCs and ADRs
+- Study the architecture patterns and lessons learned
+- Adapt the concepts safely in your own projects
